@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  border: 1px solid black;
+  width: auto;
+  height: 150px;
+}
+
+.selected {
+  border: 1px solid black;
+}
